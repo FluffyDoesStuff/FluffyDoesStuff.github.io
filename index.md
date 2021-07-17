@@ -16,4 +16,4 @@
 <p><a href="https://github.com/FluffyDoesStuff/Shaderpack/releases/tag/0.1">FSW Pre-Release v0.1</a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><span style="color: #ffffff;">Still having problems? Found a bug that needs fixed? Contact me through discord! Fluffy#7973</p>
+<p><span style="color: #ffffff;">Still having problems? Found a bug that needs fixed? Contact me through discord! Fluffy#7973</span></p>
