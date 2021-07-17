@@ -1,5 +1,5 @@
 <div id="mybar">
-    <h1>          Fluffy's Shaded World Dowloads</h1>
+    <h2>          Fluffy's Shaded World Dowloads</h2>
 </div>
 <body style="background-color:#404040;">
 <p>&nbsp;</p>
