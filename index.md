@@ -2,7 +2,7 @@
 <div id="mybar">
     <h2>          Fluffy's Shaded World Dowloads</h2>
 </div>
-<body style="background-color:#404040;">
+<body style="background-color:#5cdb95;">
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
