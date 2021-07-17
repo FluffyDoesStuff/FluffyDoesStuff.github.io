@@ -9,11 +9,13 @@
 <h1><span style="color: #ffffff;">Installation:</span></h1>
 <p><span style="color: #ffffff;"><strong>Tested and supported Optifine versions: 1.8.9 - 1.16.5 Most stable Optifine version: 1.14.4</strong></span><br /><span style="color: #ffffff;">1. Download and install&nbsp;</span><strong><a href="https://www.minecraft.net/" rel="nofollow">Minecraft,</a></strong><span style="color: #ffffff;">&nbsp;setup your game profile of the version you want to run.</span><br /><span style="color: #ffffff;">2. Download and run the&nbsp;</span><strong><a href="https://optifine.net/downloads" rel="nofollow">Optifine</a></strong>&nbsp;<span style="color: #ffffff;">jar file and click the Install button. It will install a new Optifine profile in your minecraft launcher.</span><br /><span style="color: #ffffff;">3. Run the minecraft launcher and select the newly created Optifine profile.</span><br /><span style="color: #ffffff;">4. Start the game.</span><br /><span style="color: #ffffff;">5. Go to Options -&gt; Video Setings -&gt; Shaders and press the "Shaders Folder" button at the bottom left of the screen.</span><br /><span style="color: #ffffff;">6. Download the ShaderPack and place it in the newly opened window.</span><br /><span style="color: #ffffff;">7. Select the ShaderPack you downloaded from the list ingame and enjoy!</span></p>
 <p>&nbsp;</p>
-<p><span style="color: #ffffff;"><em>Recommended</em></span></p>
+<h1><span style="color: #ffffff;">Downloads:</span></h1>
+<h4><span style="color: #ffffff;">Recommended Version:</span></h4>
 <p><a href="https://github.com/FluffyDoesStuff/Shaderpack/releases">Latest Version</a></p>
 <hr />
-<p><span style="color: #ffffff;"><em>Previous Versions</em></span></p>
+<h4><span style="color: #ffffff;">Previous Versions:</span></h4>
 <p><a href="https://github.com/FluffyDoesStuff/Shaderpack/releases/tag/0.1">FSW Pre-Release v0.1</a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<hr />
 <p><span style="color: #ffffff;">Still having problems? Found a bug that needs fixed? Contact me through discord! Fluffy#7973</span></p>
