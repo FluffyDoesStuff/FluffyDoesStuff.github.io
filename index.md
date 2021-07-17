@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <link rel="stylesheet" type="text/css" href="style.css">
 <div class="topnav">
   <a class="active" href="#home">Home</a>
