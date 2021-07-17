@@ -4,8 +4,8 @@
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
 </div>
-<h1><span style="background-color:000000;"><span style="color: #ffffff;">
-  <p>
+<h1><span style="background-color:000000;">
+  <p><span style="color: #ffffff;">
     Fluffy's Shaded World Download
   </p>
 </h1>
