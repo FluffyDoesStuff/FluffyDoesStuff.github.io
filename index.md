@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="style.css">
 <div id="mybar">
     <h2>          Fluffy's Shaded World Dowloads</h2>
 </div>
