@@ -1,14 +1,13 @@
 <!DOCTYPE html>
+<link rel="stylesheet" type="text/css" href="style.css">
 <div class="topnav">
   <a class="active" href="#home">Home</a>
   <a href="#news">News</a>
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
 </div>
-<div id="nav">
-    <div id="nav-inner">
-        <h1>Some navigations stuff...</h1>
-    </div>
+<div id="mybar">
+    <h1>Some navigations stuff...</h1>
 </div>
   <body style="background-color:#404040;">
 <p><span style="color: #ff0000;"><strong>! WARNING !&nbsp;</strong><span style="color: #ffffff;">If you see this shader avaliable for download or purchace&nbsp;<strong>Anywhere</strong> other than here, do&nbsp;<strong>NOT&nbsp;</strong>download it. It can install malware to steal sensitive information or even damage your device. Do not fall for this. Stay safe out there.</span></span></p>
