@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 <div id="mybar">
-    <h2>          Fluffy's Shaded World Dowloads</h2>
+    <h2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fluffy's Shaded World Dowloads</h2>
 </div>
 <body style="background-color:#5cdb95;">
 <p>&nbsp;</p>
