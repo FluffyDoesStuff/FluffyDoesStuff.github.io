@@ -4,7 +4,9 @@
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
 </div>
-<h2 class="full-width">Full-Width Bar</h2>
+<h1>
+  <p><span style="color: #ffffff;">Fluffy's Shaded World Download</p>
+</h1>
   <body style="background-color:#404040;">
 <p><span style="color: #ff0000;"><strong>! WARNING !&nbsp;</strong><span style="color: #ffffff;">If you see this shader avaliable for download or purchace&nbsp;<strong>Anywhere</strong> other than here, do&nbsp;<strong>NOT&nbsp;</strong>download it. It can install malware to steal sensitive information or even damage your device. Do not fall for this. Stay safe out there.</span></span></p>
 <p>&nbsp;</p>
