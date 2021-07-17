@@ -6,9 +6,12 @@
   <a href="#about">About</a>
 </div>
 <div id="mybar">
-    <h1>Some navigations stuff...</h1>
+    <h1>Fluffy's Shaded World Dowloads</h1>
 </div>
-  <body style="background-color:#404040;">
+<body style="background-color:#404040;">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p><span style="color: #ff0000;"><strong>! WARNING !&nbsp;</strong><span style="color: #ffffff;">If you see this shader avaliable for download or purchace&nbsp;<strong>Anywhere</strong> other than here, do&nbsp;<strong>NOT&nbsp;</strong>download it. It can install malware to steal sensitive information or even damage your device. Do not fall for this. Stay safe out there.</span></span></p>
 <p>&nbsp;</p>
 <p><span style="color: #ffffff;"><em>Recommended</em></span></p>
