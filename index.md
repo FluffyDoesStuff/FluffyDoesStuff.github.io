@@ -1,4 +1,4 @@
-<body style="background-color:#fbeec1;">
+<body style="background-color:#404040;">
 <h1 class="full-width">
   <div class="wrap">FSW Pre-Release</div>
   <body style="background-color:#ffffff;">
