@@ -3,17 +3,6 @@
     top:0;
     left:0;
     right:0;
-    height:50px;
+    height:75px;
     background-color:#379683;
-}
-
-header, .full-width {
-  width: 100%;
-  background: #ccc;
-}
-.wrap {
-  width: 80%;
-  max-width: 24em;
-  margin: 0 auto;
-  padding: 0.25em 0.625em;
 }
