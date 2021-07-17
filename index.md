@@ -1,12 +1,5 @@
-<link rel="stylesheet" type="text/css" href="style.css">
-<div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
-</div>
 <div id="mybar">
-    <h1>Fluffy's Shaded World Dowloads</h1>
+    <h1>          Fluffy's Shaded World Dowloads</h1>
 </div>
 <body style="background-color:#404040;">
 <p>&nbsp;</p>
