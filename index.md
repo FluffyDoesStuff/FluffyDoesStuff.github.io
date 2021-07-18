@@ -2,6 +2,28 @@
 <div id="mybar">
     <h2><span style="color: #ffffff;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fluffy's Shaded World Dowloads</span></h2>
 </div>
+<!-- Tab links -->
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'London')">London</button>
+  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
+  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+</div>
+
+<!-- Tab content -->
+<div id="London" class="tabcontent">
+  <h3>London</h3>
+  <p>London is the capital city of England.</p>
+</div>
+
+<div id="Paris" class="tabcontent">
+  <h3>Paris</h3>
+  <p>Paris is the capital of France.</p>
+</div>
+
+<div id="Tokyo" class="tabcontent">
+  <h3>Tokyo</h3>
+  <p>Tokyo is the capital of Japan.</p>
+</div>
 <body style="background-color:#121212;">
 <p>&nbsp;</p>
 <p><span style="color: #ff0000;"><strong>! WARNING !&nbsp;</strong><span style="color: #ffffff;">If you see this shader avaliable for download or purchace&nbsp;<strong>Anywhere</strong> other than here, do&nbsp;<strong>NOT&nbsp;</strong>download it. It is not official and can install malware to steal sensitive information or even damage your device. Do not fall for this. Stay safe out there.</span></span></p>
