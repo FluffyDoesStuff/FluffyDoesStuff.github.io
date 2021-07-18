@@ -3,6 +3,20 @@
     top:0;
     left:0;
     right:0;
-    height:63px;
+    height:71px;
     background-color:#262626;
+}
+#bottombar{
+    position:static;
+    top:0;
+    left:0;
+    right:0;
+    height:71px;
+    background-color:#262626;
+}
+
+#wrapper{
+    position:static;
+    padding-left: 10.5%;
+    width: 75%;
 }
