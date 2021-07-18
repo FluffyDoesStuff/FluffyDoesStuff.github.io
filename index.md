@@ -15,9 +15,10 @@
 <p><a href="https://github.com/FluffyDoesStuff/FSW-Enhanced-Default/releases/">Latest Version (Enhanced Default)</a></p>
 <hr />
 <h4><span style="color: #ffffff;">Previous Versions(High):</span></h4>
-<p><a href="https://github.com/FluffyDoesStuff/Shaderpack/releases/tag/0.1">FSW Pre-Release v0.1</a></p>
+<p><a href="https://github.com/FluffyDoesStuff/Shaderpack/releases/tag/0.1">FSW High Pre-Release v0.1</a></p>
+<hr />
 <h4><span style="color: #ffffff;">Previous Versions(Enhanced Default):</span></h4>
-<p><a href="https://github.com/FluffyDoesStuff/FSW-Enhanced-Default/releases/tag/1.0">FSW Pre-Release v0.1</a></p>
+<p><a href="https://github.com/FluffyDoesStuff/FSW-Enhanced-Default/releases/tag/1.0">FSW Enhanced Default 1.0</a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <hr />
