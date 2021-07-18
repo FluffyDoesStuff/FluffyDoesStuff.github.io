@@ -13,7 +13,8 @@
 <h4><span style="color: #ffffff;">Recommended Version:</span></h4>
 <p><a href="https://github.com/FluffyDoesStuff/Shaderpack/releases">Latest Version (High)</a></p>
 <p><a href="https://github.com/FluffyDoesStuff/FSW-Enhanced-Default/releases/">Latest Version (Enhanced Default)</a></p>
-<hr />
+<p>&nbsp;</p>
+<h1><span style="color: #ffffff;">Previous Versions:</span></h1>
 <h4><span style="color: #ffffff;">Previous Versions (High):</span></h4>
 <p><a href="https://github.com/FluffyDoesStuff/Shaderpack/releases/tag/0.1">FSW High Pre-Release v0.1</a></p>
 <hr />
