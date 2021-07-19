@@ -16,7 +16,11 @@
 }
 
 #wrapper{
-    position:static;
-    padding-left: 10.5%;
+    position:relative;
+    padding-left: 1%;
+    padding-right: 1%;
+    left: 10.5%;
     width: 75%;
+    top: 8%;
+    background-color:#262626d8
 }
