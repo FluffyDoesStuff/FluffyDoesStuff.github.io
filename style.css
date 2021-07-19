@@ -3,7 +3,7 @@
     top:0;
     left:0;
     right:0;
-    height:71px;
+    height:70px;
     background-color:#262626;
 }
 #bottombar{
@@ -15,10 +15,14 @@
     background-color:#262626;
 }
 
+#background{
+    background-repeat: no-repeat;
+}
+
 #wrapper{
     position:relative;
-    padding-left: 1%;
-    padding-right: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
     left: 10.5%;
     width: 75%;
     top: 8%;
