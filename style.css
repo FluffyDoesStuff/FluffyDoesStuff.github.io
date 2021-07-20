@@ -5,7 +5,6 @@
     right:0;
     height:70px;
     background-color:#262626;
-    z-index: 3;
 }
 #bottombar{
     position:static;
@@ -17,6 +16,7 @@
 }
 
 #background{
+  position:static;
     background-repeat: no-repeat;
 }
 
