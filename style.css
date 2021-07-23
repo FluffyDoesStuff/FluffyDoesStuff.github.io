@@ -16,10 +16,9 @@
 }
 
 body {
-  background-image: url("background.jpg");
+  background-image: url("./background.jpg");
   background-attachment: fixed;
   background-repeat:inherit;
-  background-color: #cccccc;
 }
 
 #wrapper{
