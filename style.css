@@ -15,9 +15,11 @@
     background-color:#262626;
 }
 
-#background{
-  position:static;
-    background-repeat: no-repeat;
+body {
+  background-image: url("background.jpg");
+  background-attachment: fixed;
+  background-repeat:inherit;
+  background-color: #cccccc;
 }
 
 #wrapper{
